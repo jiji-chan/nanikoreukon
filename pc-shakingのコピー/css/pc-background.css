@@ -1,0 +1,46 @@
+/********************
+
+  スライスした画像を入れるCSS　
+  PC用の画像を入れる場所
+
+*********************/
+
+@charset "utf-8";
+@media screen and (min-width: 751px) {
+    .section1 {
+        background: url("../img/sp_01.jpg") no-repeat top center;
+        height: 1334px;
+    }
+    .section2 {
+        background: url("../img/sp_02.jpg") no-repeat top center;
+        height: 1100px;
+    }
+    .section3 {
+        background: url("../img/sp_03.jpg") no-repeat top center;
+        height: 2250px;
+    }
+    .section4 {
+        background: url("../img/sp_04.jpg") no-repeat top center;
+        height: 2510px;
+    }
+    .section5 {
+        background: url("../img/sp_05.jpg") no-repeat top center;
+        height: 2453px;
+    }
+    .section6 {
+        background: url("../img/sp_06.jpg") no-repeat top center;
+        height: 2950px;
+    }
+    .section7 {
+        background: url("../img/sp_07.jpg") no-repeat top center;
+        height: 3833px;
+    }
+    .section8 {
+        background: url("../img/sp_08.jpg") no-repeat top center;
+        height: 1700px;
+    }
+    .section9 {
+        background: url("../img/sp_09.jpg") no-repeat top center;
+        height: 4400px;
+    }
+}

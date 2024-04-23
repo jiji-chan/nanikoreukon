@@ -1,0 +1,51 @@
+/********************
+
+  スライスした画像を入れるCSS
+  スマホ用画像　
+
+*********************/
+
+.section1 {
+    background: url("../img/sp_01.jpg");
+    height: 1334px;
+}
+
+.section2 {
+    background: url("../img/sp_02.jpg");
+    height: 1100px;
+}
+
+.section3 {
+    background: url("../img/sp_03.jpg");
+    height: 2250px;
+}
+
+.section4 {
+    background: url("../img/sp_04.jpg");
+    height: 2510px;
+}
+
+.section5 {
+    background: url("../img/sp_05.jpg");
+    height: 2453px;
+}
+
+.section6 {
+    background: url("../img/sp_06.jpg");
+    height: 2950px;
+}
+
+.section7 {
+    background: url("../img/sp_07.jpg");
+    height: 3833px;
+}
+
+.section8 {
+    background: url("../img/sp_08.jpg");
+    height: 1700px;
+}
+
+.section9 {
+    background: url("../img/sp_09.jpg");
+    height: 4400px;
+}
